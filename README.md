@@ -8,7 +8,7 @@
 
 ![JMeter Exercise](./assets/JMeter-Exercise.png)
 
-These exercises were designed to learn JMeter by doing. This exercise series is a part of **Performance Testing Trilogy 🔺**. 
+Theses exercises were designed to learn JMeter by doing. This exercise series is a part of **Performance Testing Trilogy 🔺**. 
 
 Looking for LoadRunner Exercises? [Here it is](https://github.com/QAInsights/LoadRunner-Exercises).
 
